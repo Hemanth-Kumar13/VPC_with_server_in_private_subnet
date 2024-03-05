@@ -1,1 +1,1 @@
-In this project I created a VPC Architecture and Developed a Private Infrastructure using VPC for securely Accessing the private databases using AMI's Windows Server and Ubuntu linux Server.
+In this project I created a VPC architecture and developed a Private Infrastructure within the VPC for securely accessing the private databases using Windows Server and Ubuntu Linux Server.
